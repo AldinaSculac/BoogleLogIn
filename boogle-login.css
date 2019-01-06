@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box; /*border-box model is not affected by border thickness or padding*/
+  box-sizing: border-box;
 }
 
 body {
@@ -50,7 +50,7 @@ h2 {
   border-radius: 100px;
 }
 
-.search-bar {
+.bar {
   position: relative;
   top: 70px;    
   display: block;
@@ -67,7 +67,7 @@ h2 {
   }
 
 
-/*Pomicanje teksta*/
+/*Text motion*/
 label {
   position:relative;
   }
